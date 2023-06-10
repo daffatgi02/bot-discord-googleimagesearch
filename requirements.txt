@@ -1,0 +1,5 @@
+discord.py==1.7.3
+google-api-python-client==2.23.0
+google-cloud-storage==1.42.0
+python-dotenv==1.0.0
+requests==2.26.0
